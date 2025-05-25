@@ -105,7 +105,7 @@
             <p class="text-lg text-gray-700 max-w-4xl mx-auto mb-8">
                 Hi there! I'm Mamun Sikder, a Digital Marketing Specialist with a passion for helping businesses achieve their online advertising goals. I thrive on optimizing campaigns and providing actionable insights. My goal is to drive measurable results and maximize your return on ad spend.
             </p>
-            <img src="uploaded:MAMUN SIKDER.jpg-47eade30-452f-44d5-97ac-c0b07b515831" alt="Mamun Sikder's Profile Photo" class="mx-auto rounded-full shadow-lg max-w-full h-auto w-48 h-48 object-cover">
+            <img src="https://placehold.co/400x400/a78bfa/ffffff?text=Your+Photo" alt="Mamun Sikder's Profile Photo" class="mx-auto rounded-full shadow-lg max-w-full h-auto w-48 h-48 object-cover">
         </div>
     </section>
 
@@ -144,7 +144,7 @@
 
     <footer class="bg-gray-900 text-gray-300 py-8">
         <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2025 Mamun Sikder. All rights reserved.</p>
+            <p>© 2025 Mamun Sikder. All rights reserved.</p>
             <div class="flex justify-center space-x-6 mt-4">
                 <a href="#" class="hover:text-white transition duration-300">Privacy Policy</a>
                 <a href="#" class="hover:text-white transition duration-300">Terms of Service</a>
@@ -153,3 +153,5 @@
     </footer>
 </body>
 </html>
+
+
